@@ -1,5 +1,5 @@
 // Converting inches into ft
-let c = 34;
+let c = 35;
 let a = 50; 
 let b = a / c ;
 console.log(a + " in = " + b + " ft");
