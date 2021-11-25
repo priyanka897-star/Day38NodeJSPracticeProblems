@@ -27,6 +27,5 @@ function getPrimeFactors(integer) {
     return primeArray;
   }
   rl.question("enter the  number ", function (number) {
-   
   console.log(getPrimeFactors(parseInt(number)).join(', '));
   });
