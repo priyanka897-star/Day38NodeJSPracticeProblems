@@ -33,4 +33,5 @@ switch(digit){
     default:
         console.log("Entered "+typeof(digit)+" Expected single digit");
         break;    
-}
+
+    }
